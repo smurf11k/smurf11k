@@ -85,9 +85,10 @@
 </div>
 
 <h2>🔗 Links</h2>
-<img src="img/code.png" align="right" width="580" />
+<div align="center">
+  <img src="img/code.png" align="right" width="60%" />
 
-<p align="left">
+  <p align="left">
   <a href="https://smurf11k.github.io/portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=postiz" />
   </a><br/>
@@ -112,3 +113,4 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a><br/>
 </p>
+</div>
