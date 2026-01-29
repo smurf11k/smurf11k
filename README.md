@@ -86,7 +86,7 @@
 
 <h2>🔗 Links</h2>
 <div align="center">
-  <img src="img/code.png" align="right" width="60%" />
+  <img src="img/code.png" align="right" width="50%" />
 
   <p align="left">
   <a href="https://smurf11k.github.io/portfolio/" target="_blank">
