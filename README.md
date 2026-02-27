@@ -89,7 +89,7 @@
   <img src="img/code.png" align="right" width="50%" />
 
   <p align="left">
-  <a href="https://smurf11k.github.io/portfolio/" target="_blank">
+  <a href="https://smurf11k.pages.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=postiz" />
   </a><br/>
 
