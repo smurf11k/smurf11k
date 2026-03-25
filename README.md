@@ -76,7 +76,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smurf11k&bg_color=24292f&color=adbac7&line=adbac7&point=7cb6fd&area=true&hide_border=true"  width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smurf11k&bg_color=2E3440&color=adbac7&line=adbac7&point=7cb6fd&area=true&hide_border=false&radius=6"  width="97%"/>
 </div>
 <br/>
 
@@ -108,6 +108,10 @@
 <a href="https://ko-fi.com/smurf11k">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a><br/>
+
+  <a href="https://www.patreon.com/smurf11k">
+    <img src="https://img.shields.io/badge/Patreon-EF5B5B?style=for-the-badge&logo=patreon&logoColor=white" />
+</a><br/>
 
   <a href="https://t.me/kincsemm" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
