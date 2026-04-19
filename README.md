@@ -16,7 +16,7 @@
 
 </br>
 
-<h2 align="center">▸ SKILLS MASTERED ◂</h2>
+<h2 align="center">▸ WHAT I WORK WITH ◂</h2>
 
 <table align="center">
   <tr>
@@ -80,8 +80,7 @@
 
 <h2 align="center">▸ DEVELOPMENT ACTIVITY ◂</h2>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smurf11k&theme=nord_dark" alt="Repos per Language" width="31.5%"/>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smurf11k&theme=nord_dark" alt="Repos per Language" width="31.5%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smurf11k&theme=nord_dark" alt="Profile Details" width="65%"/>
 </div>
 
@@ -98,7 +97,7 @@
 
 <div align="center">
 
-  <!-- LINKS ROW -->
+  <!-- LINKS -->
   <p>
     <a href="https://smurf11k.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=postiz" /></a>
     <a href="https://codepen.io/smurf11k" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-white?style=for-the-badge&logo=codepen-black&logoColor=black" /></a>
@@ -109,7 +108,7 @@
     <a href="https://t.me/kincsemm" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   </p>
 
-  <!-- IMAGE BELOW -->
-  <img src="img/code.png" width="100%" />
+  <!-- IMAGE -->
+  <img src="img/code.png" width="70%" />
 
 </div>
