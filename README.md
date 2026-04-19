@@ -1,13 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=smurf11k" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=smurf11k;Full+Stack+Developer;Indie+Game+Developer" />
 </p>
-
-<h3 align="center">Full Stack Developer • Indie Game Developer</h3>
 
 <p align="center">
-  <i>Focused on full-stack development while having fun creating games.</i>
+  <b>@smurf11k</b>
 </p>
-<br/>
+
+<p align="center">
+  <i>Building modern web apps and indie games.</i>
+</p>
+
+<p align="center">
+  ─────────────────────────────
+</p>
+
+</br>
 
 <h2 align="center">▸ SKILLS MASTERED ◂</h2>
 
@@ -20,6 +27,7 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -86,37 +94,22 @@
   <img src="https://komarev.com/ghpvc/?username=smurf11k&style=for-the-badge&color=3975d0" alt="Profile Views" />
 </div>
 
-<h2>🔗 Links</h2>
+<h2 align="center">▸ LINKS ◂</h2>
+
 <div align="center">
-  <img src="img/code.png" align="right" width="50%" />
 
-  <p align="left">
-  <a href="https://smurf11k.pages.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=postiz" />
-  </a><br/>
+  <!-- LINKS ROW -->
+  <p>
+    <a href="https://smurf11k.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=postiz" /></a>
+    <a href="https://codepen.io/smurf11k" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-white?style=for-the-badge&logo=codepen-black&logoColor=black" /></a>
+    <a href="https://smurf11k-portfolio.notion.site/Portfolio-smurf11k-1e8a93562136802fa92bd7297de0010f" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
+    <a href="https://ko-fi.com/smurf11k"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+    <a href="https://smurf11k.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
+    <a href="https://www.patreon.com/smurf11k"><img src="https://img.shields.io/badge/Patreon-EF5B5B?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+    <a href="https://t.me/kincsemm" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  </p>
 
-  <a href="https://codepen.io/smurf11k" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/CodePen-white?style=for-the-badge&logo=codepen-black&logoColor=black" />
-  </a><br/>
-  
-  <a href="https://www.notion.so/Portfolio-1e8a93562136802fa92bd7297de0010f" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  </a><br/>
+  <!-- IMAGE BELOW -->
+  <img src="img/code.png" width="50%" />
 
-  <a href="https://ko-fi.com/smurf11k">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a><br/>
-
-  <a href="https://smurf11k.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
-  </a><br/>
-
-  <a href="https://www.patreon.com/smurf11k">
-    <img src="https://img.shields.io/badge/Patreon-EF5B5B?style=for-the-badge&logo=patreon&logoColor=white" />
-</a><br/>
-
-  <a href="https://t.me/kincsemm" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a><br/>
-</p>
 </div>
