@@ -110,6 +110,6 @@
   </p>
 
   <!-- IMAGE BELOW -->
-  <img src="img/code.png" width="50%" />
+  <img src="img/code.png" width="100%" />
 
 </div>
