@@ -141,7 +141,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smurf11k&bg_color=020617&color=7dd3fc&line=3b82f6&point=ffffff&area=true&area_color=2563eb&hide_border=true&radius=8" width="97%" />
   
-  <br/><br/>
+  <br/>
   
   <img src="https://komarev.com/ghpvc/?username=smurf11k&style=for-the-badge&color=3b82f6" />
 
