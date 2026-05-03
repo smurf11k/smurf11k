@@ -12,12 +12,11 @@
   [![CodePen](https://img.shields.io/badge/CodePen-Experiments-3b82f6?style=flat-square&logo=codepen&logoColor=white&labelColor=020617)](https://codepen.io/smurf11k)
   [![Itch.io](https://img.shields.io/badge/Itch.io-Games-3b82f6?style=flat-square&logo=itchdotio&logoColor=white&labelColor=020617)](https://smurf11k.itch.io/)
   [![Telegram](https://img.shields.io/badge/Telegram-Contact-3b82f6?style=flat-square&logo=telegram&logoColor=white&labelColor=020617)](https://t.me/kincsemm)
-
-</div>
-
-<div align="center">
+  
+  <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=3b82f6&center=true&vCenter=true&width=760&lines=fullstack+developer;indie+game+developer;building+cool+stuff+with+code" />
+
 
 </div>
 
@@ -140,11 +139,15 @@
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smurf11k&bg_color=020617&color=7dd3fc&line=3b82f6&point=ffffff&area=true&area_color=2563eb&hide_border=true&radius=8" width="97%" />
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=smurf11k&style=for-the-badge&color=3b82f6" />
 
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=smurf11k&style=flat-square&color=3b82f6" />
+  
 </div>
 
 <br/>
