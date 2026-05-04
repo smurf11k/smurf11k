@@ -152,7 +152,7 @@
 
 <br/>
 
-<h2 align="center">▸ A WISE PERSON ONCE SAID ◂</h2>
+<h2 align="center">▸ QUOTES ◂</h2>
 
 <p align="center"><i>“Being a good software engineer is 3% talent, 97% not being distracted by the internet.”</i> — Unknown</p>
 
