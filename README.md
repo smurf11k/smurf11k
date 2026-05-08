@@ -95,8 +95,6 @@
   
   <div align="center">
 
-  [![crappy-code](https://img.shields.io/badge/crappy--code-Web%20Experiment-16a34a?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/crappy-code)
-  [![rabbit-hole](https://img.shields.io/badge/rabbit--hole-Web%20Experiment-16a34a?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/rabbit-hole)
   [![tree-view-web](https://img.shields.io/badge/tree--view--web-Web%20Tool-a855f7?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/tree-view-web)
   [![magyar-notes](https://img.shields.io/badge/magyar--notes-Web%20Tutoring-ef4444?style=for-the-badge&logo=astro&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/magyar-notes)
   [![eng-horses](https://img.shields.io/badge/eng--horses-Web%20Tutoring-ef4444?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/eng-horses)
