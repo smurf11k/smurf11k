@@ -96,7 +96,6 @@
   <div align="center">
 
   [![tree-view-web](https://img.shields.io/badge/tree--view--web-Web%20Tool-a855f7?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/tree-view-web)
-  [![magyar-notes](https://img.shields.io/badge/magyar--notes-Web%20Tutoring-ef4444?style=for-the-badge&logo=astro&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/magyar-notes)
   [![eng-horses](https://img.shields.io/badge/eng--horses-Web%20Tutoring-ef4444?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/eng-horses)
   
   </div>
