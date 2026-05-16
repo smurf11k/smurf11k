@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="https://smurf11k.pages.dev/">
-    <img src="img/smurf.png" width="100%" />
+    <img src="img/smurf.png" width="90%" />
   </a>
   
   <br/>
@@ -25,16 +25,16 @@
 
 ```yaml
 developer.alias:       smurf11k
-developer.role:        fullstack developer + indie game dev
-developer.status:      building cool stuff with code
-developer.focus:       web apps, game systems, creative tooling
+developer.role:        software engineer focused on fullstack web development
+developer.status:      building web apps and indie games in spare cycles
+developer.focus:       fullstack systems, ui/ux, and creative tooling
 
 languages.programming: javascript, typescript, php, java, c#
-languages.web:         html, css, json
+languages.markup:      html, css, json, yaml, xml, markdown, powershell
 languages.database:    postgresql, mysql, sqlite
 languages.real:        english, hungarian, ukrainian
 
-interests.main:        open source, indie games, ui/ux
+interests.main:        indie game development, open source
 interests.sidequests:  experimental projects, automation
 
 network.portfolio:     smurf11k.pages.dev
@@ -53,72 +53,68 @@ network.portfolio:     smurf11k.pages.dev
 <details>
   <summary><b>see more</b></summary>
 
-  <br/>
+<br/>
 
-  <h2 align="center">▸ CRAFTED WITH CODE ◂</h2>
+<h2 align="center">▸ CRAFTED WITH CODE ◂</h2>
 
-  <div align="center">
+<div align="center">
 
 ![Tool](https://img.shields.io/badge/Tool-a855f7?style=flat-square)
-    ![Experimental](https://img.shields.io/badge/Experimental-16a34a?style=flat-square)
-    ![Platform](https://img.shields.io/badge/Platform-ef4444?style=flat-square)
-    ![Learning](https://img.shields.io/badge/Learning-d97706?style=flat-square)
+![Experimental](https://img.shields.io/badge/Experimental-16a34a?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-ef4444?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-d97706?style=flat-square)
 
-  </div>
+</div>
 
   <details open>
     <summary><b>Personal Projects</b></summary>
-    <br/>
     
-<div align="center">
+<br/>
+    
+<div>
 
 [![tree-view-web](https://img.shields.io/badge/tree--view--web-Web%20Tool-a855f7?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/tree-view-web)
-    [![eng-horses](https://img.shields.io/badge/eng--horses-Web%20Tutoring-ef4444?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/eng-horses)
+[![eng-horses](https://img.shields.io/badge/eng--horses-Web%20Tutoring-ef4444?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/eng-horses)
     
 </div>
 
   </details>
 
   <details>
-    <summary><b>Academic Projects</b></summary>
-    <br/>
+  <summary><b>Academic Projects</b></summary>
+<br/>
 
-<div align="center">
+<div>
     
 [![tech-tutor](https://img.shields.io/badge/tech--tutor-Final%20Project-ef4444?style=for-the-badge&logo=laravel&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/tech-tutor)
-    [![skill-forge](https://img.shields.io/badge/skill--forge-Edu%20Platform-ef4444?style=for-the-badge&logo=laravel&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/skill-forge)
-    
+[![skill-forge](https://img.shields.io/badge/skill--forge-Edu%20Platform-ef4444?style=for-the-badge&logo=laravel&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/skill-forge)
 [![dispatchr](https://img.shields.io/badge/dispatchr-Hackathon-16a34a?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/dispatchr)
-    [![nr-contrib-data-pipeline](https://img.shields.io/badge/nr--contrib--data--pipeline-NodeRed%20Node-a855f7?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/nr-contrib-data-pipeline)
-    
+[![nr-contrib-data-pipeline](https://img.shields.io/badge/nr--contrib--data--pipeline-NodeRed%20Node-a855f7?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/nr-contrib-data-pipeline)
 [![ddd-shop](https://img.shields.io/badge/ddd--shop-Architecture-d97706?style=for-the-badge&logo=php&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/ddd-shop)
-    [![hexagonal-shop](https://img.shields.io/badge/hexagonal--shop-Architecture-d97706?style=for-the-badge&logo=dotnet&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/hexagonal-shop)
-    
+[![hexagonal-shop](https://img.shields.io/badge/hexagonal--shop-Architecture-d97706?style=for-the-badge&logo=dotnet&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/hexagonal-shop)
 [![simple-online-wallet](https://img.shields.io/badge/simple--online--wallet-Web-d97706?style=for-the-badge&logo=javascript&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/simple-online-wallet)
-    [![frostgate-rpg](https://img.shields.io/badge/frostgate--rpg-Game%20System-d97706?style=for-the-badge&logo=php&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/frostgate-rpg)
-    
+[![frostgate-rpg](https://img.shields.io/badge/frostgate--rpg-Game%20System-d97706?style=for-the-badge&logo=php&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/frostgate-rpg)
 [![artifactor-mobile](https://img.shields.io/badge/artifactor--mobile-Demo-d97706?style=for-the-badge&logo=expo&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/artifactor-mobile)
-    
 [![artifactor-local](https://img.shields.io/badge/artifactor--local-JavaFX-a855f7?style=for-the-badge&logo=openjdk&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/artifactor-local)
-    [![artifactor-demo](https://img.shields.io/badge/artifactor--demo-Cli-a855f7?style=for-the-badge&logo=openjdk&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/artifactor-demo)
+[![artifactor-demo](https://img.shields.io/badge/artifactor--demo-Cli-a855f7?style=for-the-badge&logo=openjdk&logoColor=3b82f6&labelColor=020617)](https://github.com/smurf11k/artifactor-demo)
     
 </div>
 
   </details>
 
-  <br/>
+<br/>
 
-  <h2 align="center">▸ WHAT I WORK WITH ◂</h2>
+<h2 align="center">▸ WHAT I WORK WITH ◂</h2>
 
 ### Languages
     
 ![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=3b82f6)
-    ![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=3b82f6)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=3b82f6)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3b82f6)
-    ![PHP](https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=3b82f6)
-    ![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=3b82f6)
-    ![C#](https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=3b82f6)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=3b82f6)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3b82f6)
+![PHP](https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=3b82f6)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=3b82f6)
+![C#](https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=3b82f6)
     
 ### Libraries & Frameworks
     
@@ -158,17 +154,17 @@ network.portfolio:     smurf11k.pages.dev
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-020617?style=for-the-badge&logo=visualstudio&logoColor=3b82f6)
 
-  <br/>
+<br/>
 
-  <h2 align="center">▸ DEVELOPMENT ACTIVITY ◂</h2>
+<h2 align="center">▸ DEVELOPMENT ACTIVITY ◂</h2>
 
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=smurf11k&bg_color=020617&color=7dd3fc&line=3b82f6&point=ffffff&area=true&area_color=2563eb&hide_border=true&radius=8" width="97%" />
   </div>
+  
+<br/>
 
-  <br/>
-
-  <h2 align="center">▸ QUOTES ◂</h2>
+<h2 align="center">▸ BUILD LOG ◂</h2>
 
   <p align="center"><i>“Being a good software engineer is 3% talent, 97% not being distracted by the internet.”</i> — Unknown</p>
 
@@ -176,7 +172,7 @@ network.portfolio:     smurf11k.pages.dev
 
   <p align="center"><i>“When you are asked if you can do a job, tell ’em, ‘Certainly I can!’ Then get busy and find out how to do it.”</i> — Theodore Roosevelt</p>
     
-  <br/>
+<br/>
 
   <div align="center">
     <img src="img/code.png" width="100%" />
