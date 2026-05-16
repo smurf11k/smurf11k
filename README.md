@@ -30,7 +30,7 @@ developer.status:      building web apps and indie games in spare cycles
 developer.focus:       fullstack systems, ui/ux, and creative tooling
 
 languages.programming: javascript, typescript, php, java, c#
-languages.markup:      html, css, json, yaml, xml, markdown, powershell
+languages.structured:  html, css, json, yaml, xml, markdown, powershell
 languages.database:    postgresql, mysql, sqlite
 languages.real:        english, hungarian, ukrainian
 
