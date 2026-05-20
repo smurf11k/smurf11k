@@ -25,6 +25,7 @@
 
 ```yaml
 developer.alias:       smurf11k
+developer.name:        Munkácsy Renáta
 developer.role:        software engineer focused on fullstack web development
 developer.status:      building web apps and indie games in spare cycles
 developer.focus:       fullstack systems, ui/ux, and creative tooling
@@ -36,8 +37,6 @@ languages.real:        english, hungarian, ukrainian
 
 interests.main:        indie game development, open source
 interests.sidequests:  experimental projects, automation
-
-network.portfolio:     smurf11k.pages.dev
 ```
 
 </div>
