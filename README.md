@@ -36,6 +36,7 @@ languages.database:    postgresql, mysql, sqlite
 languages.real:        english, hungarian, ukrainian
 
 interests.main:        indie game development, open source
+interests.creative:    photography, cinematography
 interests.sidequests:  experimental projects, automation
 ```
 
