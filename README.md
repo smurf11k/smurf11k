@@ -27,8 +27,8 @@
 developer.alias:       smurf11k
 developer.name:        Munkácsy Renáta
 developer.role:        software engineer focused on fullstack web development
-developer.status:      building web apps and indie games in spare cycles
 developer.focus:       fullstack systems, ui/ux, and creative tooling
+developer.status:      building web apps and indie games in spare cycles
 
 languages.programming: javascript, typescript, php, java, c#
 languages.structured:  html, css, json, yaml, xml, markdown, powershell
