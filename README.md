@@ -33,7 +33,7 @@ developer.status:      building web apps and indie games in spare cycles
 languages.programming: javascript, typescript, php, java, c#
 languages.structured:  html, css, json, yaml, xml, markdown, powershell
 languages.database:    postgresql, mysql, sqlite
-languages.real:        english, hungarian, ukrainian
+languages.real:        english, hungarian, ukrainian, russian
 
 interests.main:        indie game development, open source
 interests.creative:    photography, cinematography
