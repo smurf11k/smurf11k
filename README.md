@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="https://smurf11k.pages.dev/">
+  <a href="https://smurf11k.github.io">
     <img src="img/smurf.png" width="90%" />
   </a>
   
