@@ -4,13 +4,13 @@
 
 <div align="center">
 
-  <a href="https://smurf11k.github.io">
+  <a href="https://smurf11k.pages.dev">
     <img src="img/smurf.png" width="90%" />
   </a>
   
   <br/>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-smurf11k.pages.dev-3b82f6?style=flat-square&logo=cloudflare&logoColor=white&labelColor=020617)](https://smurf11k.pages.dev/)
+  [![Website](https://img.shields.io/badge/Website-smurf11k.github.io-3b82f6?style=flat-square&logo=github&logoColor=white&labelColor=020617)](https://smurf11k.github.io)
   [![CodePen](https://img.shields.io/badge/CodePen-Experiments-3b82f6?style=flat-square&logo=codepen&logoColor=white&labelColor=020617)](https://codepen.io/smurf11k)
   [![Itch.io](https://img.shields.io/badge/Itch.io-Games-3b82f6?style=flat-square&logo=itchdotio&logoColor=white&labelColor=020617)](https://smurf11k.itch.io/)
   [![Telegram](https://img.shields.io/badge/Telegram-Contact-3b82f6?style=flat-square&logo=telegram&logoColor=white&labelColor=020617)](https://t.me/kincsemm)
