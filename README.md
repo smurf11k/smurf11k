@@ -8,7 +8,7 @@
     <img src="https://mir-s3-cdn-cf.behance.net/19abf302e87f98058327c4b5fcf68e62/4df6bf94-3cc7-4ee0-8c61-5554acf9d511_rwc_135x0x2930x410x3200.jpg?h=d68b3e7a6a299653cfd55e3ab4333903" width="100%" />
   </a>
   
-  [![Website](https://img.shields.io/badge/Website-smurf11k-880808?style=flat&logo=github&logoColor=white&labelColor=2b2c29)](https://smurf11k.github.io)
+  [![Resume](https://img.shields.io/badge/Resume-smurf11k.github.io-880808?style=flat&logo=github&logoColor=white&labelColor=2b2c29)](https://smurf11k.github.io)
   [![CodePen](https://img.shields.io/badge/CodePen-Experiments-880808?style=flat&logo=codepen&logoColor=white&labelColor=2b2c29)](https://codepen.io/smurf11k)
   [![Itch.io](https://img.shields.io/badge/Itch.io-Games-880808?style=flat&logo=itchdotio&logoColor=white&labelColor=2b2c29)](https://smurf11k.itch.io/)
   [![Telegram](https://img.shields.io/badge/Telegram-Contact-880808?style=flat&logo=telegram&logoColor=white&labelColor=2b2c29)](https://t.me/kincsemm)
@@ -97,7 +97,7 @@ and automate anything that gets in my way twice.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/smurf11k/smurf11k.github.io">smurf11k.github.io</a></h3>
-      <p>Live résumé and activity showcase, with content managed in Notion and deployed through Wrangler.</p>
+      <p>Live resume and activity showcase, with content managed in Notion and deployed through Wrangler.</p>
       <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-880808?style=flat-square&logo=javascript&logoColor=white&labelColor=2b2c29" />
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-880808?style=flat-square&logo=html5&logoColor=white&labelColor=2b2c29" />
