@@ -12,6 +12,7 @@
   [![CodePen](https://img.shields.io/badge/CodePen-Experiments-880808?style=flat&logo=codepen&logoColor=white&labelColor=2b2c29)](https://codepen.io/smurf11k)
   [![Itch.io](https://img.shields.io/badge/Itch.io-Games-880808?style=flat&logo=itchdotio&logoColor=white&labelColor=2b2c29)](https://smurf11k.itch.io/)
   [![Telegram](https://img.shields.io/badge/Telegram-Contact-880808?style=flat&logo=telegram&logoColor=white&labelColor=2b2c29)](https://t.me/kincsemm)
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-Coffee%20Fund-880808?style=flat&logo=kofi&logoColor=white&labelColor=2b2c29)](https://ko-fi.com/smurf11k)
 
 </div>
 
