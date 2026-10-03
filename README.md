@@ -51,6 +51,7 @@ and automate anything that gets in my way twice.
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-880808?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=2b2c29" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-880808?style=flat-square&logo=python&logoColor=white&labelColor=2b2c29" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-880808?style=flat-square&logo=php&logoColor=white&labelColor=2b2c29" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-880808?style=flat-square&logo=laravel&logoColor=white&labelColor=2b2c29" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-880808?style=flat-square&logo=mysql&logoColor=white&labelColor=2b2c29" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-880808?style=flat-square&logo=postgresql&logoColor=white&labelColor=2b2c29" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-880808?style=flat-square&logo=docker&logoColor=white&labelColor=2b2c29" />
