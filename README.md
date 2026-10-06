@@ -89,8 +89,8 @@ and automate anything that gets in my way twice.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/smurf11k/guess-the-number">guess-the-number</a></h3>
-      <p>Browser-based number-guessing game with hint-driven feedback and an unlockable achievement system.</p>
+      <h3><a href="https://github.com/smurf11k/game-localization-lab">game-localization-lab</a></h3>
+      <p>Research into video game localization, translation strategies, and cultural adaptation, with <i>The Witcher 3: Wild Hunt</i> as a primary case study.</p>
       <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-880808?style=flat-square&logo=javascript&logoColor=white&labelColor=2b2c29" />
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-880808?style=flat-square&logo=html5&logoColor=white&labelColor=2b2c29" />
@@ -126,16 +126,20 @@ and automate anything that gets in my way twice.
 
 <br/>
 
-  <p align="left"><i>“Being a good software engineer is 3% talent, 97% not being distracted by the internet.”</i> — Unknown</p>
+<p align="center"><code>--- build.log ---</code></p>
 
-  <p align="left"><i>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</i> — Dan Salomon</p>
+<p align="left"><code>[QUOTE]</code> <i>“Being a good software engineer is 3% talent, 97% not being distracted by the internet.”</i> — Unknown</p>
 
-  <p align="left"><i>“When you are asked if you can do a job, tell ’em, ‘Certainly I can!’ Then get busy and find out how to do it.”</i> — Theodore Roosevelt</p>
-    
+<p align="left"><code>[QUOTE]</code> <i>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</i> — Dan Salomon</p>
+
+<p align="left"><code>[QUOTE]</code> <i>“When you are asked if you can do a job, tell ’em, ‘Certainly I can!’ Then get busy and find out how to do it.”</i> — Theodore Roosevelt</p>
+
+<p align="center"><code>--- build finished: 0 errors, 3 quotes loaded ---</code></p>
+
 <br/>
 
-  <div align="center">
-    <img src="img/code.png" width="100%" />
-  </div>
+<div align="center">
+  <img src="img/code.png" width="100%" />
+</div>
 
 </details>
