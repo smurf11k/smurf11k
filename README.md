@@ -128,11 +128,11 @@ and automate anything that gets in my way twice.
 
 <p align="center"><code>--- build.log ---</code></p>
 
-<p align="left"><code>[QUOTE]</code> <i>“Being a good software engineer is 3% talent, 97% not being distracted by the internet.”</i> — Unknown</p>
+<p align="left"><code>[QUOTE]</code> <i>“Being a good software engineer is 3% talent, 97% not being distracted by the internet.”</i> <sub>— Unknown</sub></p>
 
-<p align="left"><code>[QUOTE]</code> <i>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</i> — Dan Salomon</p>
+<p align="left"><code>[QUOTE]</code> <i>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</i> <sub>— Dan Salomon</sub></p>
 
-<p align="left"><code>[QUOTE]</code> <i>“When you are asked if you can do a job, tell ’em, ‘Certainly I can!’ Then get busy and find out how to do it.”</i> — Theodore Roosevelt</p>
+<p align="left"><code>[QUOTE]</code> <i>“When you are asked if you can do a job, tell ’em, ‘Certainly I can!’ Then get busy and find out how to do it.”</i> <sub>— Theodore Roosevelt</sub></p>
 
 <p align="center"><code>--- build finished: 0 errors, 3 quotes loaded ---</code></p>
 
