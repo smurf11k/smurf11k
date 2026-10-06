@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="https://www.behance.net/renatamunkacsy">
-    <img src="https://mir-s3-cdn-cf.behance.net/19abf302e87f98058327c4b5fcf68e62/4df6bf94-3cc7-4ee0-8c61-5554acf9d511_rwc_135x0x2930x410x3200.jpg?h=d68b3e7a6a299653cfd55e3ab4333903" width="100%" />
+    <img src="https://mir-s3-cdn-cf.behance.net/19abf302e87f98058327c4b5fcf68e62/8795aa23-341d-46d4-8de2-4dc833ce634d_rwc_135x0x2930x410x3200.png?h=5fd3c367bbc8fbb49b219c77bb569b4e" width="100%" />
   </a>
   
   [![Resume](https://img.shields.io/badge/Resume-smurf11k.github.io-880808?style=flat&logo=github&logoColor=white&labelColor=2b2c29)](https://smurf11k.github.io)
