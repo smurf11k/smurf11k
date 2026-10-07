@@ -78,12 +78,13 @@ and automate anything that gets in my way twice.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/smurf11k/tree-view-web">tree-view-web</a></h3>
-      <p>Browser-based viewer for folder and JSON structures with interactive navigation and PNG export.</p>
+      <h3><a href="https://github.com/smurf11k/linkstats">linkstats</a></h3>
+      <p>A Linktree alternative with per-link click analytics, custom groups, and a private dashboard.</p>
       <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-880808?style=flat-square&logo=javascript&logoColor=white&labelColor=2b2c29" />
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-880808?style=flat-square&logo=html5&logoColor=white&labelColor=2b2c29" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-880808?style=flat-square&logo=css3&logoColor=white&labelColor=2b2c29" />
+        <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-880808?style=flat-square&logo=supabase&logoColor=white&labelColor=2b2c29" />
       </p>
     </td>
   </tr>
